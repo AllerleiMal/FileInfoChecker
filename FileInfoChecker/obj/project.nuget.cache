@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "FaJUcOxEbfNJWInRL6050QJn0aiOG9lbsXq37Dw8RCTr9I7/EOi2VQ90v45IvHRnAAS61/QGUYakMKwLn8zXJw==",
+  "success": true,
+  "projectFilePath": "D:\\programming\\CG\\FileInfoChecker\\FileInfoChecker\\FileInfoChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emely\\.nuget\\packages\\gdpicture\\14.2.20\\gdpicture.14.2.20.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\gdpicture.runtimes.windows\\14.2.20\\gdpicture.runtimes.windows.14.2.20.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-preview.1.23110.8\\microsoft.win32.systemevents.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.drawing.common\\8.0.0-preview.1.23110.8\\system.drawing.common.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\emely\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
